@@ -118,3 +118,5 @@ ENV/
 static/img/*
 uploads/*
 site
+# wechat-plugins/
+mysql_data/
