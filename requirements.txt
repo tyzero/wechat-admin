@@ -3,11 +3,12 @@ Flask-SQLAlchemy==2.2
 Flask-Migrate==2.0.3
 Flask-SSE==0.2.1
 celery==4.0.2
-PyMySQL==0.7.11
+PyMySQL==0.9.3
 gunicorn==19.7.1
 msgpack-python==0.4.8
-walrus==0.4.1
+walrus==0.8.0
 mkdocs==0.16.3
 mkdocs-material==1.7.4
+cryptography==2.8
 -e git+https://github.com/dongweiming/wxpy@signals#egg=wxpy
 -e git+https://github.com/tyzero/ItChat@signals2#egg=itchat
